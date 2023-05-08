@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Paul Ignagni and I'm a training to be a software developer with Tech Elevator.
+I'm currently learning javascript and how to work with GitHub.
+I hope to become a full-stack software engineer by the end of this coding bootcamp.
